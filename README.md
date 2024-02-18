@@ -1,6 +1,9 @@
 ### Hi there 👋
+My name is Jarron
+I live in Northern California and I play basketball
+I like coding HTML and JAVA and I'm ok at Python
 
-<!--
+
 **IDEIDEIDE/IDEIDEIDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
